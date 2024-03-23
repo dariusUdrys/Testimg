@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<p>&nbsp;</p>
+
+<p style="font-family: Verdana, Geneva, sans-serif; font-size: 13.3333px; letter-spacing: -0.37px;">&nbsp;</p>
+
+<div class="container" style="font-family: Verdana, Geneva, sans-serif; letter-spacing: -0.37px; background-color: rgb(255, 255, 255); max-width: 600px; margin: 0px auto; padding: 20px; border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 10px; font-size: 13.3333px;">
+<h1 style="color: rgb(229, 9, 20); text-align: center;">NETFLIX</h1>
+
+<p style="margin: 10px 0px;">&nbsp;</p>
+
+<p style="margin: 10px 0px;">I would like to inform you that our latest&nbsp;attempt for your Monthly plan has failed. No charges were made to your account for the upcoming subscription period. To keep your account active, you need to complete payment for this subscription or update your payment method.</p>
+
+<p style="margin: 10px 0px;"><span style="letter-spacing: -0.37px;">Please note we can only keep your account for 5 more days. Afterward, it will be marked as pending for deletion.</span></p>
+
+<p style="margin: 10px 0px; text-align: center;"><a class="v1button" href="https://www.bolsasnuevaimagen.com/contact/" rel="noopener noreferrer" style="color: rgb(255, 255, 255); font-family: SFUIText, Helvetica, sans-serif; letter-spacing: -0.37px; padding: 10px 20px; border-radius: 5px; font-size: 16px; display: inline-block; box-sizing: border-box; background-color: rgb(255, 51, 51); text-decoration-line: none;">Restart&nbsp;Membership</a></p>
+
+<p style="margin: 10px 0px;">&nbsp;</p>
+
+<p style="margin: 10px 0px;">PS: We hope you&#39;re enjoying your experience with us! As always, feel free to reach out to us. We&#39;d love to hear from you.</p>
+</div>
+
+
+
+</body>
+</html>
